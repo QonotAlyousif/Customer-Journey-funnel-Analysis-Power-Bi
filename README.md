@@ -1,4 +1,4 @@
-# Customer-Journey & Funnel Analysis (Power Bi)
+# E-commerce Customer Journey & Funnel Analysis (Power Bi)
 
  The project analyze e-commerce customer behavior across platform using synthetic datasetm The dashboard provide insights into how the user
  move from **Home** > **Product Page** > **Cart** > **Checkout** > **Confirmation**, highlighting Conversions, Drop-offs, and behavioral patterns 
