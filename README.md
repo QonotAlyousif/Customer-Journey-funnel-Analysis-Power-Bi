@@ -149,7 +149,7 @@ FORMAT(
 ## Recomenndations 
 
 - **Improve Checkout Experience**: Simplify checkout steps, Enable guest checkout ,Offer multiple payment options.
--**Enhance Mobile Experience**: Optimize page speed, Simplify navigation and forms. 
+- **Enhance Mobile Experience**: Optimize page speed, Simplify navigation and forms. 
 - **Retarget Abandoning Users** Use email reminders for abandoned carts
 - **Diversify Marketing Channels** Invest in social media campaigns. 
 - **Time-Based Strategies** Schedule campaigns during peak hours (morning).
